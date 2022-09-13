@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> My Webpage </title>
+	</head>
+	<!-- The following 'style' attributes were added inline for the accompanying video's brevity sake.
+	This is not the recommended way to style your HTML documents. Use external CSS stylesheet (*.css) files instead. -->
+	<body style="background-color: gray;">
+
+		Hello Canvas!
+
+		<canvas id="myCanvas" style="background-color: black;"> </canvas>
+
+	<!-- The following JavaScript code was added inline for the accompanying video's brevity sake.
+	This is not the recommended way to add JavaScript to your HTML documents. Use external JavaScript (*.js) files instead. -->
+		<script>
+			let canvas = document.getElementById("myCanvas");
+			let context = canvas.getContext("2d");
+
+			context.fillStyle = "magenta";
+			context.fillRect(150, 70, 50, 50);
+		</script>
+	</body>
+</html>
