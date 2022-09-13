@@ -14,5 +14,5 @@ Note: This series really starts 'from scratch', so Chapter 0 is all about instal
 
 <br>
 
-<h3> Let's get started on our journey to discover: The Joy of Ray Tracing!
+<h3> Let's get started on our journey to discover: <em> The Joy of Ray Tracing! </em>
 </h3>
