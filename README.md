@@ -1,15 +1,15 @@
-# The Joy of Ray Tracing
+# The <em> Joy </em> of Ray Tracing
 
 A video series in which we make several types of Ray Tracers, <strong> from scratch! </strong>
 <br>
 
 My YouTube Channel intro: https://www.youtube.com/watch?v=bI9MzhqBcH4
 
-The Joy of Ray Tracing series: https://www.youtube.com/playlist?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV
+<strong>The <em>Joy</em> of Ray Tracing</strong> series: https://www.youtube.com/playlist?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV
 
 <br>
 
-This GitHub repository contains the complete source code and examples for everything we do in each video episode. <em> The Joy Of Ray Tracing </em> YouTube video series and this matching GitHub repo are organized in a 'book'-type fashion, with major Chapters (numbered from 0 to ..?) and several Episodes/Sections (similarly numbered from 0 to ..?), inside each Chapter.  For example, the very first video in the very first chapter would be titled 'Chapter 0 Episode 0' on YouTube, and the corresponding folder path here on GitHub would be '/Chapter_0/Episode_0/' .  The next video in the series would be 'Chapter 0 Episode 1' on YouTube, and so forth.
+This GitHub repository contains the complete source code and examples for everything we do in each video episode. <strong>The <em>Joy</em> Of Ray Tracing </strong> YouTube video series and this matching GitHub repo are organized in a 'book'-type fashion, with major Chapters (numbered from 0 to ..?) and several Episodes/Sections (similarly numbered from 0 to ..?), inside each Chapter.  For example, the very first video in the very first chapter would be titled 'Chapter 0 Episode 0' on YouTube, and the corresponding folder path here on GitHub would be '/Chapter_0/Episode_0/' .  The next video in the series would be 'Chapter 0 Episode 1' on YouTube, and so forth.
 
 <h3> Feel free to skip over Chapter 0 if you are fairly experienced with web development and have a coding environment already set up (like VS Code)
 </h3>
