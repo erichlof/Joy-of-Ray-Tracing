@@ -1,6 +1,6 @@
 # The <em> Joy </em> of Ray Tracing
 
-A video series in which we make several types of Ray Tracers, <strong> from scratch! </strong>
+A video series in which we make several types of Ray Tracers, <strong> <em>from scratch!</em> </strong>
 <br>
 
 My YouTube Channel intro: https://www.youtube.com/watch?v=bI9MzhqBcH4
