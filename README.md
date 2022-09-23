@@ -31,5 +31,5 @@ So...
 
 <h3> Chapter 0 </h3>
 
-* Episode 0: [Most Simple Webpage Ever!](https://erichlof.github.io/Joy-Of-Ray-Tracing/Chapter_0/Episode_0/myWebpage.html)
+* Episode 0: [Most Simple Webpage Ever!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_0/myWebpage.html)
 
