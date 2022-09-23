@@ -1,0 +1,23 @@
+body
+{
+	background-color: gray;
+	margin: 0%;
+	overflow: hidden;
+}
+
+#myCanvas
+{
+	background-color: black;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+}
+
+#myText
+{
+	position: fixed;
+	top: 0%;
+	color: yellow;
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+}
