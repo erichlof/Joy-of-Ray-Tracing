@@ -34,5 +34,6 @@ So...
 * Episode 0: [Most Simple Webpage Ever!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_0/myWebpage.html)
 * Episode 1: [Hello Canvas!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_1/myWebpage.html)
 * Episode 2: [Apply styles / fullscreen Canvas](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_2/styledCanvas.html)
-* Episode 3: [ JS Intro / handling Window 'resize' & 'mousedown' Events](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_3/interactivePage.html)
+* Episode 3: [JS Intro / handling Window 'resize' & 'mousedown' Events](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_3/interactivePage.html)
+* Episode 4: [Add Simple Button to randomize Rectangles](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_4/simpleButton.html) 
 
