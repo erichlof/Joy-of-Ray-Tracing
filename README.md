@@ -35,9 +35,9 @@ So...
 
 <h3> Chapter 0 </h3>
 
-* Episode 0: [Most Simple Webpage Ever!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_0/myWebpage.html)
-* Episode 1: [Hello Canvas!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_1/myWebpage.html)
-* Episode 2: [Apply styles / fullscreen Canvas](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_2/styledCanvas.html)
-* Episode 3: [JS Intro / handling Window 'resize' & 'mousedown' Events](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_3/interactivePage.html)
-* Episode 4: [Add Simple Button to randomize Rectangles](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_4/simpleButton.html) 
+* Episode 0: [Most Simple Webpage Ever!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_0/myWebpage.html) - [video](https://youtu.be/jKe3H7MkoxQ?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
+* Episode 1: [Hello Canvas!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_1/myWebpage.html) - [video](https://youtu.be/zMo3XjIKbl4?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
+* Episode 2: [Apply styles / fullscreen Canvas](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_2/styledCanvas.html) - [video](https://youtu.be/ROC3HrBZmkE?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
+* Episode 3: [JS Intro / handling Window 'resize' & 'mousedown' Events](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_3/interactivePage.html) - [video](https://youtu.be/TehXiPblaBA?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
+* Episode 4: [Add Simple Button to randomize Rectangles](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_4/simpleButton.html) - [video](https://youtu.be/IdF_hbKsi3c?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 
