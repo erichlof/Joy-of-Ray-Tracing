@@ -40,5 +40,5 @@ So...
 * Episode 2: [Apply styles / fullscreen Canvas](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_2/styledCanvas.html) - [video](https://youtu.be/ROC3HrBZmkE?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 * Episode 3: [JS Intro / handling Window 'resize' & 'mousedown' Events](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_3/interactivePage.html) - [video](https://youtu.be/TehXiPblaBA?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 * Episode 4: [Add Simple Button to randomize Rectangles](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_4/simpleButton.html) - [video](https://youtu.be/IdF_hbKsi3c?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
-* Episode 5: [Gives each Rectangle a Random Color(rgb)](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_5/randomColors.html) - [video](https://youtu.be/7uWyWor1Z-E?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
+* Episode 5: [Gives each Rectangle a Random Color](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_5/randomColors.html) - [video](https://youtu.be/7uWyWor1Z-E?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 
