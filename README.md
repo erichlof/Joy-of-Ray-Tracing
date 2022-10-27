@@ -33,7 +33,7 @@ So...
 
 <h2> Live Examples from Each Episode </h2>
 
-<h3> Chapter 0 </h3>
+<h3> Chapter 0 - Intro, Coding Environment Setup, HTML/CSS/JavaScript Basics, Drawing to Canvas in the Browser</h3>
 
 * Episode 0: [Most Simple Webpage Ever!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_0/myWebpage.html) - [video](https://youtu.be/jKe3H7MkoxQ?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 * Episode 1: [Hello Canvas!](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_1/myWebpage.html) - [video](https://youtu.be/zMo3XjIKbl4?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
