@@ -42,3 +42,6 @@ So...
 * Episode 4: [Add Simple Button to randomize Rectangles](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_4/simpleButton.html) - [video](https://youtu.be/IdF_hbKsi3c?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 * Episode 5: [Gives each Rectangle a Random Color](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_0/Episode_5/randomColors.html) - [video](https://youtu.be/7uWyWor1Z-E?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 
+<h3> Chapter 1 - Coding our 1st CPU Ray Tracer, Looping over all screen pixels, Working with Vectors, Basic Ray Casting, Fundamentals of Ray Tracing</h3>
+
+* Episode 0: [Loop over all pixels and set their colors](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_0/pixelLoop.html)
