@@ -44,4 +44,4 @@ So...
 
 <h3> Chapter 1 - Coding our 1st CPU Ray Tracer, Looping over all screen pixels, Working with Vectors, Basic Ray Casting, Fundamentals of Ray Tracing</h3>
 
-* Episode 0: [Loop over all pixels and set their colors](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_0/pixelLoop.html) 
+* Episode 0: [Loop over all pixels and set their colors](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_0/pixelLoop.html) - [video](https://youtu.be/bF9MbUKsrRY?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
