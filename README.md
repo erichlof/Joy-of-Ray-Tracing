@@ -1,7 +1,11 @@
 # The <em> Joy </em> of Ray Tracing
 
-A video series in which we make several types of Ray Tracers, <strong> <em>from scratch!</em> </strong>
+A video series in which we make several types of Ray Tracers, <strong> <em>from scratch!</em> </strong> <br>
 <br>
+![JoyOfRayTracing_thumbnail7](https://user-images.githubusercontent.com/3434843/217321124-51b3c851-d543-47e0-8a1f-c7083408eee9.png)
+![JoyOfRayTracing_thumbnail](https://user-images.githubusercontent.com/3434843/217314476-401abb46-dd57-4609-a1b2-aa745a36fb20.png)
+![JoyOfRayTracing_thumbnail4](https://user-images.githubusercontent.com/3434843/217321493-90b02c5d-3d4a-44f0-aab4-c73c6f38be05.png)
+
 
 [My YouTube Channel intro](https://www.youtube.com/watch?v=bI9MzhqBcH4)
 
