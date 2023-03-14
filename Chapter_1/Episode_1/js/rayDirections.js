@@ -1,8 +1,6 @@
 let canvas = document.getElementById("myCanvas");
 let context = canvas.getContext("2d");
 
-
-
 let userInfo = document.getElementById("userInfo");
 
 
@@ -21,9 +19,7 @@ function handleWindowResize()
 
 let canvasX = 0;
 let canvasY = 0;
-let r = 0;
-let g = 0;
-let b = 0;
+
 let rayDirection = new Vector3();
 let colorVector = new Vector3(); // x = r, y = g, z = b
 
@@ -67,7 +63,9 @@ function draw()
 		}
 		///console.log("canvasY is " + canvasY);
 	}
+
 } // end function draw()
+
 
 // jumpstart the drawing of the screen
 handleWindowResize();
