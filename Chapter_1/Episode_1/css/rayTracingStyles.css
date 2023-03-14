@@ -1,0 +1,24 @@
+html, body
+{
+	background-color: gray;
+	margin: 0%;
+	overflow: hidden;
+}
+
+#myCanvas
+{
+	position: fixed;
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+
+#userInfo
+{
+	position: fixed;
+	color: white;
+	bottom: 2%;
+	left: 1%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+}
