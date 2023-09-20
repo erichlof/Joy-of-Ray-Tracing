@@ -51,3 +51,4 @@ So...
 * Episode 0: [Loop over all pixels and set their colors](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_0/pixelLoop.html) - [video](https://youtu.be/bF9MbUKsrRY?list=PL3NuKUKozjGTJRKB4duG2dxpyUu_Pj7jV)
 * Episode 1: [Visualize Ray Directions as rgb colors](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_1/rayDirections.html) - [video](https://youtu.be/gJ7SMXnVVvY)
 * Episode 2: [Ray Intersect Plane, Mix (blend) function](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_2/intersectPlane.html) - [video](https://youtu.be/NTieRi0JD5g)
+* Episode 3: [Ray Intersect Sphere](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_3/intersectSphere.html) - [video](https://youtu.be/BLOnAegyFZE)
