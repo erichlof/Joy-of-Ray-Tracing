@@ -52,3 +52,4 @@ So...
 * Episode 1: [Visualize Ray Directions as rgb colors](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_1/rayDirections.html) - [video](https://youtu.be/gJ7SMXnVVvY)
 * Episode 2: [Ray Intersect Plane, Mix (blend) function](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_2/intersectPlane.html) - [video](https://youtu.be/NTieRi0JD5g)
 * Episode 3: [Ray Intersect Sphere](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_3/intersectSphere.html) - [video](https://youtu.be/BLOnAegyFZE)
+* Episode 4: [Diffuse Lighting, Directional Light Source](https://erichlof.github.io/Joy-of-Ray-Tracing/Chapter_1/Episode_4/diffuseLighting.html) - [video](https://youtu.be/mqYFZDO0Zbk)
